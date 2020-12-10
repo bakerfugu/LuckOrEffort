@@ -1,4 +1,4 @@
-Explore this interactive comparison of luck and skill! 
+Explore this interactive comparison of luck and hard work! 
 
 In [January of 2020](https://www.nasa.gov/press-release/nasa-s-newest-astronauts-ready-for-space-station-moon-and-mars-missions) NASA selected 11 people to become astronauts out of the more than 18,300 people who applied. Did the 11 astronauts get a little lucky or was it solely a result of hard work?
 
